@@ -1,0 +1,1 @@
+Para hacer que git ignore archivos, concatenamos al principio del nombre el caracter '.', y usamos el comando "add *" de esta manera ignorará aquellos archivos que hemos marcado
